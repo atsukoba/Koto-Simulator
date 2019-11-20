@@ -4,9 +4,9 @@
 
 - Simulator UI
 
-![](src/koto-simu_ss.jpg)
+![screenshot](src/koto-simu_ss.jpg)
 
 
 - Max for Live Patch
 
-![](src/patch_ss.jpg)
+![screenshot](https://i.gyazo.com/c67c1f26da5d1caea60b069d49e26bf4.jpg)
